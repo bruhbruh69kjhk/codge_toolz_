@@ -1,5 +1,5 @@
 # codge_toolz_
-things to have handy
+THINGS TO HAVE HANDY
 
 There is no shame in befriending A.I.
 
